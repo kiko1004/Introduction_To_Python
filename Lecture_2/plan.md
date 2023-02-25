@@ -5,7 +5,8 @@
 4. Coding Time!
 
 # Part 2
-1. Loops
-2. Range
-3. Coding Time!
+1. Lists
+2. Loops
+3. Range
+4. Coding Time!
 
