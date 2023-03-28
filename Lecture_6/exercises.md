@@ -17,6 +17,8 @@ class Rectangle:
 </details>
 
 <br>
+
+
 2. Create a class called Person with attributes name, age, and gender. Add a method called get_older that increases the person's age by 1.
 
 <details>
