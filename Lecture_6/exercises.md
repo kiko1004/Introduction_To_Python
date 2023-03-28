@@ -39,8 +39,8 @@ class Person:
 
 <br>
 
-<br>
-2. Create a class called BankAccount with attributes balance and interest_rate. Add methods called deposit and withdraw that modify the account balance accordingly.
+
+3. Create a class called BankAccount with attributes balance and interest_rate. Add methods called deposit and withdraw that modify the account balance accordingly.
 
 <details>
 <summary><b>Solution</b></summary>
